@@ -9,7 +9,7 @@ The code implements the **Multi-Modal Contrastive Learning (MMCL)** framework th
 
 ## Availability
 
-The code will be publicly available before **May 1, 2026**.
+The code will be publicly available soon.
 
 ## License
 
